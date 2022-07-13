@@ -1,0 +1,62 @@
+Cliente: Vou bem
+Chatbot: Eu também. Você gosta de filmes?
+Cliente: Eu gosto muito!
+Chatbot: Qual?
+Cliente: Gosto demais!
+Chatbot: Legal!
+Cliente: Oi
+Chatbot: Tudo bem?
+Cliente: Vou bem
+Chatbot: Eu também
+Cliente: Tudo
+Chatbot: Legal
+Cliente: Sim
+Chatbot: Que legal
+Cliente: Tudo e vc?
+Chatbot: Eu também vou bem
+Cliente: Como vc tá?
+Chatbot: Estou bem
+Cliente: Você gosta de filmes?
+Chatbot: Eu gosto e vc?
+Cliente: Olá
+Chatbot: Olá!
+Cliente: Que bom
+Chatbot: Massa
+Cliente: Homem aranha!
+Chatbot: Spiderman!
+Cliente: tenho que ir
+Chatbot: Não se vá!
+Cliente: Vou bem e vc?
+Chatbot: Também
+Cliente: tudo
+Chatbot: que beleza
+Cliente: bem
+Chatbot: Quer tomar um café?
+Cliente: Vamos
+Chatbot: Com biscoitos?
+Cliente: Homem
+Chatbot: Nada
+Cliente: tudo bem e vc?
+Chatbot: eu também estou bem
+Cliente: Olá!
+Cliente: Tudo
+Cliente: muito
+Cliente: Hello
+Chatbot: Hi
+Cliente: O filme do Pelé
+Chatbot: Eu gosto do filme do Pelé também
+Cliente: Não
+Chatbot: Que pena
+Cliente: É
+Chatbot: Muito dificil
+Cliente: Legal
+Chatbot: Cool
+Cliente: Biscoito
+Cliente: Qual seu filme preferido?
+Chatbot: Homem aranha!
+Cliente: Claro
+Chatbot: Massa!
+Cliente: Pois �
+Chatbot: Tamb�m estou bem!
+Cliente: Ol�!
+Chatbot: Ol�
